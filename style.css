@@ -1,0 +1,16 @@
+h4{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+a, a:visited{
+    text-decoration: none;
+    color:brown;
+}
+
+a:hover{
+    color: lightcoral;
+}
+
+p{
+    margin: 1px;
+}
